@@ -1,4 +1,4 @@
-# Descrpition
+# Description
 This repo contains the files I used to process the glyph images for my "Electronic Sign" mod in the game "Teardown".
 
 # Python Libraries Imported
